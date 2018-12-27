@@ -6,6 +6,7 @@ It doesn't matter who we are, what matters is our plan...
 
 
 ## Become a pigeon
+[Join us](https://goo.gl/forms/UZ0sg7rmAfKRlAk13)
 
 
 ## Organizers:
