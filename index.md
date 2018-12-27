@@ -5,15 +5,10 @@ It doesn't matter who we are, what matters is our plan...
 ## Newest news
 
 ### # 2018-12-27  
-* We have finally started
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- We have finally started
 
 ## Become a pigeon
-*   [Join us](https://goo.gl/forms/UZ0sg7rmAfKRlAk13)
+>   [Join us](https://goo.gl/forms/UZ0sg7rmAfKRlAk13)
 
 ## Slack
 *   hackerpigeons.slack.com
