@@ -1,6 +1,6 @@
 ## Welcome to Hacker Pigeons 
 
-It doesn't matter who we are, what matters is our plan...
+* It doesn't matter who we are, what matters is our plan...
 
 ## Newest news
 
@@ -14,7 +14,7 @@ It doesn't matter who we are, what matters is our plan...
 * hackerpigeons.slack.com
 
 ## Trello
-** If you really want to help
+* If you really want to help
 
 
 ## Organizers:
