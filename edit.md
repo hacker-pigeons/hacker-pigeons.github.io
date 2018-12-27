@@ -1,3 +1,6 @@
+
+[Home](./index.md)
+
 ## Edit page
 You can use the [editor on GitHub](https://github.com/hacker-pigeons/hacker-pigeons.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
