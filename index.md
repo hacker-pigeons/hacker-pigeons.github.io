@@ -4,7 +4,7 @@ It doesn't matter who we are, what matters is our plan...
 
 ## Newest news
 
-### #2018-12-27  
+### # 2018-12-27  
 *   We finally started
 
 ## Become a pigeon
