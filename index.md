@@ -5,7 +5,7 @@
 ## Events
 * If you don't attend events three times in a row, you can come on next one.
 
-> 2019-01-10
+> 2019-01-10 Code Hub Mostar 
 * We're limited to 10 people.
 * [Sign up](https://goo.gl/forms/JRIoSaieTQWyVcYa2){:target="_blank"}
 
