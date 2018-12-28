@@ -2,11 +2,6 @@
 
 * It doesn't matter who we are, what matters is our plan...
 
-## Newest news
-
-### # 2018-12-27  
-* We have finally started
-
 ## Events
 * If you don't attend events three times in a row, you can come on next one.
 
