@@ -14,7 +14,7 @@
 * hackerpigeons.slack.com
 
 ## Trello
-* If you really want to help
+* [Participate](https://trello.com/invite/b/vyrmwWM0/84d3891dc1d83011bb351eed5424b155/hacker-pigeons)
 
 
 ## Organizers:
