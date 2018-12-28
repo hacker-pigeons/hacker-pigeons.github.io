@@ -8,7 +8,7 @@
 * We have finally started
 
 ## Become a pigeon
-* [Join us](https://goo.gl/forms/UZ0sg7rmAfKRlAk13)
+* [Join us](https://goo.gl/forms/6Fq8JhFISqwwaj6F2)
 
 ## Slack
 * hackerpigeons.slack.com
