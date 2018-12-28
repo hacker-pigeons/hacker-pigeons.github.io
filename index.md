@@ -16,6 +16,8 @@
 ## Trello
 * [Participate](https://trello.com/invite/b/vyrmwWM0/84d3891dc1d83011bb351eed5424b155/hacker-pigeons)
 
+## Email us
+* hackerpigeons@gmail.com
 
 ## Organizers:
 - It doesn't matter 
