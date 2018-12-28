@@ -7,6 +7,12 @@
 ### # 2018-12-27  
 * We have finally started
 
+## Events
+* If you don't attend events three times in a row, you can come on next one.
+
+> 2019-01-10
+* [Sign up](https://goo.gl/forms/JRIoSaieTQWyVcYa2){:target="_blank"}
+
 ## Become a pigeon
 * [Join us](https://goo.gl/forms/6Fq8JhFISqwwaj6F2){:target="_blank"}
 
