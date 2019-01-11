@@ -6,8 +6,13 @@
 * If you don't attend events three times in a row, you can come on next one.
 
 > 2019-01-10 Code Hub Mostar 
+* [Pictures](https://photos.app.goo.gl/S1bzeRzWDmZs24Ep7){:target="_blank"}
+* Meeting Minutes
+
+<!--
 * We're limited to 10 people.
 * [Sign up](https://goo.gl/forms/JRIoSaieTQWyVcYa2){:target="_blank"}
+-->
 
 ## Become a pigeon
 * [Join us](https://goo.gl/forms/6Fq8JhFISqwwaj6F2){:target="_blank"}
