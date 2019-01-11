@@ -5,7 +5,8 @@
 ## Events
 > 2019-02-21 Code Hub Mostar - Presentation by hacker pigeon M.M.
 * We're limited to 10 people. 
-* [Sign up](https://goo.gl/forms/cHugD5ihRE88hgmZ2){:target="_blank"}
+* [Sign up](https://goo.gl/forms/cHugD5ihRE88hgmZ2){:target="_blank"} 
+After submit you can check who is coming by clicking on "See previous responses" link.
 
 > 2019-01-10 Code Hub Mostar 
 * [Pictures](https://photos.app.goo.gl/S1bzeRzWDmZs24Ep7){:target="_blank"}
