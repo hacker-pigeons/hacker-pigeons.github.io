@@ -7,7 +7,7 @@
 
 > 2019-01-10 Code Hub Mostar 
 * [Pictures](https://photos.app.goo.gl/S1bzeRzWDmZs24Ep7){:target="_blank"}
-* Meeting Minutes
+* [Meeting Minutes](https://docs.google.com/document/d/1UcqJry-Oem98xo1v_QMHQSPivCtg0yWoJY2XjHCEL0g/edit?usp=sharing){:target="_blank"}
 
 <!--
 * We're limited to 10 people.
