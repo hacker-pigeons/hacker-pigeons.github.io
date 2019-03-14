@@ -3,6 +3,9 @@
 * If you don't attend events three times in a row, you can come on next one.
 
 ## Events
+> 2019-04-18 Code Hub Mostar - Presentation by hacker pigeon G.R.
+* We're limited to 10 people. 
+
 > 2019-03-14 Code Hub Mostar - Presentation by hacker pigeon D.P.
 * We're limited to 10 people. 
 
