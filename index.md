@@ -7,9 +7,11 @@
 * We're limited to 10 people. 
 
 > 2019-03-14 Code Hub Mostar - Presentation by hacker pigeon D.P.
+* [Presentation](https://docs.google.com/presentation/d/1UJEJN3gKl9SjhGEWUnix7k2nFZDCtdEkpKoY67Qb1GQ/edit?usp=sharing){:target="_blank"}
 * We're limited to 10 people. 
 
 > 2019-02-21 Code Hub Mostar - Presentation by hacker pigeon M.M.
+* [Presentation](https://docs.google.com/presentation/d/1Wek4RAfEV10CAF3mCo0FB-fNV7aaQ07IgY1kzpLM9Pc/edit?usp=sharing){:target="_blank"}
 * We're limited to 10 people. 
 * [Sign up](https://goo.gl/forms/cHugD5ihRE88hgmZ2){:target="_blank"} 
 After submit you can check who is coming by clicking on "See previous responses" link.
