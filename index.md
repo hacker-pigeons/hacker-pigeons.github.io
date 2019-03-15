@@ -8,6 +8,7 @@
 
 > 2019-03-14 Code Hub Mostar - Presentation by hacker pigeon D.P.
 * [Presentation](https://docs.google.com/presentation/d/1UJEJN3gKl9SjhGEWUnix7k2nFZDCtdEkpKoY67Qb1GQ/edit?usp=sharing){:target="_blank"}
+* [Pictures](https://photos.app.goo.gl/CzeRv8JhCHBCeu1D7){:target="_blank"}
 * We're limited to 10 people. 
 
 > 2019-02-21 Code Hub Mostar - Presentation by hacker pigeon M.M.
