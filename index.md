@@ -26,7 +26,7 @@ After submit you can check who is coming by clicking on "See previous responses"
 * [Sign up](https://goo.gl/forms/JRIoSaieTQWyVcYa2){:target="_blank"}
 -->
 
-## Become a pigeon
+## Become a pigeon (test)
 * [Join us](https://goo.gl/forms/6Fq8JhFISqwwaj6F2){:target="_blank"}
 
 ## Slack
